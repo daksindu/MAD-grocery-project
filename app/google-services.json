@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "432695003190",
+    "firebase_url": "https://grocery-f7b67-default-rtdb.firebaseio.com",
+    "project_id": "grocery-f7b67",
+    "storage_bucket": "grocery-f7b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432695003190:android:2cf4c2df958b9b9a36b097",
+        "android_client_info": {
+          "package_name": "com.example.pickpacklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432695003190-p4d6ik52qcf84h3q7fp935cofc3e2oet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_nEia7ZyBoIBBJSZKlSoFztCFzH2qCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432695003190-p4d6ik52qcf84h3q7fp935cofc3e2oet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432695003190:android:48cce1aafca7db9e36b097",
+        "android_client_info": {
+          "package_name": "pickpack.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432695003190-p4d6ik52qcf84h3q7fp935cofc3e2oet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_nEia7ZyBoIBBJSZKlSoFztCFzH2qCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432695003190-p4d6ik52qcf84h3q7fp935cofc3e2oet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
