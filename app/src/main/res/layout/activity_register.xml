@@ -108,16 +108,16 @@
                 app:layout_constraintTop_toBottomOf="@+id/inputAddress" />
 
             <EditText
-                android:id="@+id/inputConformPassword"
+                android:id="@+id/inputPhoneNumber"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:background="@drawable/input_login"
-                android:drawableLeft="@drawable/ic_baseline_security_24"
+                android:drawableLeft="@drawable/ic_phone"
                 android:drawablePadding="10dp"
                 android:ems="10"
-                android:inputType="textPassword"
-                android:hint="Conform Password"
+                android:inputType="textPhonetic"
+                android:hint="Phone Number"
                 android:paddingLeft="20dp"
                 android:paddingTop="13dp"
                 android:paddingRight="20dp"
@@ -138,15 +138,16 @@
                 android:ems="10"
                 android:inputType="textEmailAddress"
                 android:hint="Email"
+                android:drawablePadding="10dp"
                 android:paddingLeft="20dp"
                 android:paddingTop="13dp"
                 android:paddingRight="20dp"
                 android:paddingBottom="13dp"
                 android:textColor="@color/white"
                 android:textColorHint="@color/white"
-                app:layout_constraintEnd_toEndOf="@+id/inputConformPassword"
-                app:layout_constraintStart_toStartOf="@+id/inputConformPassword"
-                app:layout_constraintTop_toBottomOf="@+id/inputConformPassword" />
+                app:layout_constraintEnd_toEndOf="@+id/inputPhoneNumber"
+                app:layout_constraintStart_toStartOf="@+id/inputPhoneNumber"
+                app:layout_constraintTop_toBottomOf="@+id/inputPhoneNumber" />
 
             <Button
                 android:id="@+id/btnRegister"
