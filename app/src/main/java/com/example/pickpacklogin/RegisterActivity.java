@@ -61,7 +61,7 @@ public class RegisterActivity extends AppCompatActivity {
                 UserHelperClass helperClass = new UserHelperClass(name, address, password, phoneNumber, email);
 
                 reference.child(phoneNumber).setValue(helperClass);
-                Intent intent = new Intent(RegisterActivity.this, UserProfileActivity.class);
+                Intent intent = new Intent(RegisterActivity.this, HomeActivity.class);
                 startActivity(intent);
                 Toast.makeText(RegisterActivity.this, "Succsesfull Register", Toast.LENGTH_SHORT).show();
             }
