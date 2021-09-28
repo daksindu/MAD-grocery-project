@@ -3,6 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/drawable-v24/add_to_cart_textview_bg.xml" value="0.23125" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/drawable/input_login.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/drawable/shape_rect01.xml" value="0.2703125" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/font/aldrich.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/activity_cart.xml" value="0.264" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/activity_home.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/activity_product_details.xml" value="0.2" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/activity_product_details2.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/activity_register.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/cart.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/cart_item.xml" value="0.2" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/cart_items.xml" value="0.1" />
+        <entry key="..\:/Users/SH COMPUTERS/Desktop/MAD/MAD-grocery-project/app/src/main/res/layout/item.xml" value="0.14130434782608695" />
         <entry key="..\:/Users/daksindu costa/AndroidStudioProjects/pickpacklogin/app/src/main/res/drawable/input_login.xml" value="0.2703125" />
         <entry key="..\:/Users/daksindu costa/AndroidStudioProjects/pickpacklogin/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/daksindu costa/AndroidStudioProjects/pickpacklogin/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
